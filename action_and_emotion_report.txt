@@ -1,0 +1,19 @@
+Ações detectadas no vídeo:
+waving: 25
+writing: 29
+using_cellphone: 12
+dancing: 16
+grimace: 49
+walking: 88
+raising_arm: 24
+greeting: 19
+lying_down: 1
+
+Emoções detectadas no vídeo:
+angry: 166
+disgust: 7
+fear: 335
+happy: 720
+sad: 551
+surprise: 219
+neutral: 659
